@@ -1,4 +1,4 @@
 test
 ====
 
-It's my test reposytory.
+It's my test repository.
