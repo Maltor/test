@@ -2,4 +2,4 @@
 
 # coding: utf-8
 
-print 'Привет, мир!'
+print 'Hello, world!'
